@@ -1,12 +1,84 @@
+# Shekhar Patel 👨‍💻
 
-Working On TypeScript and GraphQL<br>I can talk full day about React and Cybersecurity<br>Love Interacting and building Community<br>CyberCell Lead (Cybersecurity Club)<br>
+Hello! Welcome to my developer README. Here you'll find information about my expertise, interests, and social links. Let's dive in! 🚀
 
+## About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/duplix#9454) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/duplixx._?igshid=ZGUzMzM3NWJiOQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shekhar-patel-149bb0224/) 
+- Full Name: Shekhar Patel
+- Role: Software Developer
+- Interests: React, Cybersecurity, Community Building
+- CyberCell Lead: Cybersecurity Club
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![](https://visitcount.itsvg.in/api?id=duplixx&icon=8&color=12)](https://visitcount.itsvg.in)
+## Expertise
+### Programming Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- JavaScript
+- Solidity
+- Java
+- TypeScript
+- GraphQL
+- Python
+- C
+- C++
+
+### Frontend Development
+
+- React
+- Redux
+- Tailwind CSS
+- Three.js
+- Apollo-GraphQL
+
+### Backend Development
+
+- Node.js
+- Express.js
+
+### Databases
+
+- MongoDB
+- MySQL
+
+### Tools and Software
+
+- Yarn
+- Postman
+- Figma
+- Linux
+
+### Cloud Platforms
+
+- Netlify
+- Google Cloud
+
+## Interests and Expertise
+
+I have a passion for React development and cybersecurity. I love building interactive and user-friendly web applications using React and its ecosystem. I'm also deeply interested in cybersecurity and actively contribute to my role as a CyberCell Lead in a cybersecurity club. 
+
+Feel free to reach out if you want to discuss React development, cybersecurity best practices, or if you need any guidance or support in these areas.
+
+## Socials
+
+You can connect with me on the following platforms:
+
+- Discord: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/duplix#9454)
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/duplixx._?igshid=ZGUzMzM3NWJiOQ==)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shekhar-patel-149bb0224/)
+
+Let's connect, share knowledge, and build an amazing developer community! 🤝
+
+## Projects
+
+Here are a few notable projects I've worked on:
+
+- [ISS_TRACKER](https://github.com/duplixx/Iss_tracker): International Space Station Tracker in 3D.
+- [Project 2](link-to-project-2): Brief description or key features.
+- [Project 3](link-to-project-3): Brief description or key features.
+
+Feel free to explore these projects and provide any feedback or suggestions.
+
+## Contact
+
+You can reach out to me via email at rootsshikhar001@gmail.com. I'm open to collaboration, discussions, and any exciting opportunities.
+
+Looking forward to connecting with you! 📩
