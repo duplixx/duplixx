@@ -1,4 +1,4 @@
-# Shekhar Patel 👨‍💻
+# Shekhar Patel 🧑‍💻
 
 Hello! Welcome to my developer README. Here you'll find information about my expertise, interests, and social links. Let's dive in! 🚀
 
@@ -8,10 +8,8 @@ Hello! Welcome to my developer README. Here you'll find information about my exp
 - Role: Software Developer
 - Interests: React, Cybersecurity, Community Building
 - CyberCell Lead: Cybersecurity Club
-
-## Expertise
+- 
 ### Programming Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frontend Development
@@ -40,18 +38,6 @@ You can connect with me on the following platforms:
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shekhar-patel-149bb0224/)
 
 Let's connect, share knowledge, and build an amazing developer community! 🤝
-
-## Projects
-
-Here are a few notable projects I've worked on:
-
-- [ISS_TRACKER](https://github.com/duplixx/Iss_tracker): International Space Station Tracker in 3D.
-- [Project 2](link-to-project-2): Brief description or key features.
-- [Project 3](link-to-project-3): Brief description or key features.
-
-Feel free to explore these projects and provide any feedback or suggestions.
-
-## Contact
 
 You can reach out to me via email at rootsshikhar001@gmail.com. I'm open to collaboration, discussions, and any exciting opportunities.
 
