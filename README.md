@@ -1,6 +1,6 @@
 ## Hey there! 👋 Welcome to my world of coding and cybersecurity! 🧑‍💻
 
-![Shekhar Patel](./Shekhar Patel.png)
+![Shekhar Patel](Shekhar Patel (1).png)
 
 ### About Me 🚀
 - **Name:** Shekhar Patel
