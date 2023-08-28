@@ -1,4 +1,3 @@
-## Hey there! 👋 Welcome to my world of coding and cybersecurity! 🧑‍💻
 
 ![Shekhar Patel](<Shekhar_Patel__2_-removebg-preview.png>)
 
