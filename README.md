@@ -11,7 +11,7 @@
 JavaScript | Solidity | Java | TypeScript | GraphQL | Python | C++ 
 
 ### Frontend Development 🌐
-Nextjs |React | Redux | Tailwind CSS | Three.js | Apollo GraphQL
+Nextjs | React | Redux | Tailwind CSS | Three.js | Apollo GraphQL
 
 ### Backend Development 🖥️
 Node.js | Express.js | 
