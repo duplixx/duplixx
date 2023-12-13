@@ -23,4 +23,6 @@ PostgrsSQL | MongoDB | MySQL
 ### Get in Touch! 📩
 📧 Email: rootsshikhar001@gmail.com
 
+![](https://komarev.com/ghpvc/?username=duplixx&label=PROFILE+VIEWS)
+
 Looking forward to connecting with you and embarking on exciting coding adventures! 🌟
