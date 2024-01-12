@@ -8,7 +8,7 @@
 - **CyberCell Lead:** Cybersecurity Club
 
 ### Programming Languages 💻
-Typescript | JavaScript | Solidity | Java | TypeScript | GraphQL | Python | C++ 
+Typescript | JavaScript | Solidity | Java | Python | C++ 
 
 ### Frontend Development 🌐
 Nextjs | React | Redux | Tailwind CSS | Three.js | Apollo GraphQL
