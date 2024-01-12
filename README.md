@@ -4,21 +4,23 @@
 ### About Me 🚀
 - **Name:** Shekhar Patel
 - **Role:** Software Developer
-- **Interests:** Blockchain, Nextjs, Community Building
+- **Interests:** Blockchain, Opensource Contribution, Community Building
 - **CyberCell Lead:** Cybersecurity Club
 
 ### Programming Languages 💻
-JavaScript | Solidity | Java | TypeScript | GraphQL | Python | C++ 
+Typescript | JavaScript | Solidity | Java | TypeScript | GraphQL | Python | C++ 
 
 ### Frontend Development 🌐
 Nextjs | React | Redux | Tailwind CSS | Three.js | Apollo GraphQL
 
 ### Backend Development 🖥️
-Node.js | Express.js | 
+Node.js | Express.js | Django
 
 ### Databases 📚
-PostgrsSQL | MongoDB | MySQL 
+PostgresSQL | MongoDB | MySQL 
 
+### Cloud ☁️
+Google Cloud | Plesk | Azure
 
 ### Get in Touch! 📩
 📧 Email: rootsshikhar001@gmail.com
