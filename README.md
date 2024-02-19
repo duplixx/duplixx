@@ -1,4 +1,4 @@
-<img src="https://gifyu.com/image/SFKwR">
+<img src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif">
 <h1 align="center">Hi, I am Shekhar Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusiast;Open-Source+Enthusiast;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...&center=true">
