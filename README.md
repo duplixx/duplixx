@@ -6,11 +6,9 @@
 
 <p align="center"> A passionate Mern & blockchain developer from India ⚡</p>
 <br>
-<br>
 
 <h1 align="center">< ToolBox 🛠></h1>
 <p align="center"> 
- <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
