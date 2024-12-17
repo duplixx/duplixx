@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusiast;Open-Source+Enthusiast;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...&center=true">
 </p>
 
-<p align="center"> A passionate Mern & blockchain developer from India ⚡</p>
+<p align="center">  Developer from India ⚡</p>
 <br>
 
 <h1 align="center">< ToolBox 🛠></h1>
